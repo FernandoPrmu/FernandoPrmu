@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FernandoPrmu
+- 👋 Hi, I’m @FernandoPramu
 - 👀 I’m interested in Cricket
 - 🌱 I’m currently learning Software development
 - 📫 How to reach me ...
